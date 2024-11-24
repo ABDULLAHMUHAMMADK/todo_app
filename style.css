@@ -315,6 +315,7 @@ button:active {
   }
   .update input{
     font-size: 16px;
+    padding: 0 6px;
   }
   .update button {
     width: 80px;
