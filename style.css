@@ -313,6 +313,9 @@ button:active {
     font-size: 23px;
     text-align: center;
   }
+  .update input{
+    font-size: 16px;
+  }
   .update button {
     width: 80px;
   }
